@@ -1,4 +1,4 @@
-# yii2-metronic
+# yii2-metronic (mirkhamidov's version)
 Yii2 [Metronic theme](http://www.keenthemes.com/) integration. Currently is supported the version 4.6
 
 Requirements
@@ -7,6 +7,16 @@ To use this extension it is required to buy own license for Metronic theme from 
 
 Installation
 ------------
+
+To use this fork neet to add repo
+```
+"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/mirkhamidov/yii2-metronic"
+    }
+],
+```
 
 The extension is in development and the only way to use this fork is through through [composer](http://getcomposer.org/download/).
 
